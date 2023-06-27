@@ -1,0 +1,11 @@
+SCREEN_WIDTH :int = 1000
+SCREEN_HEIGHT : int= 500
+
+CENTER : tuple = (SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2)
+
+OK_BUTTON_COLOR : tuple = (92, 210, 32)
+NO_BUTTON_COLOR : tuple = (210, 32, 181)
+EXIT_BUTTON_COLOR : tuple = (210, 63, 32)
+INFO_COLOR : tuple = (32, 109, 210)
+
+GAME_TRIES = 8
